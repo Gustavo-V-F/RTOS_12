@@ -1,0 +1,2 @@
+# RTOS_12
+Exemplo 2.2.3-11 do livro: USING THE FREERTOS REAL TIME KERNEL 
